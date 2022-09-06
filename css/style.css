@@ -144,6 +144,11 @@ nav{
     
 }
 
+.ancho-video{
+    width: 366px;
+    height: 189px;
+}
+
 .contenedor-contacto{
     font-size: 2rem;
     width: 80%;
@@ -269,6 +274,11 @@ nav{
     .contenedor-contacto{
         width: 30%;
     }
+
+    .ancho-video{
+        width: 610px;
+        height: 315px;
+    }
 }
 
 @media (min-width: 1200px){
@@ -285,6 +295,11 @@ nav{
     }
     .titulo-grande{
         font-size: 4rem;
+    }
+
+    .ancho-video{
+        width: 1120px;
+        height: 630px;
     }
 
 }
