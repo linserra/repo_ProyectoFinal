@@ -302,4 +302,10 @@ nav{
         height: 630px;
     }
 
+    .transform:hover{
+        transform: translate(0px,-2px);
+        cursor: pointer;
+        transition: transform 0.2s;
+    }
+
 }
